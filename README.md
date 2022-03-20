@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @fameuxcorsaire
+- 👀 I’m interested in astrophysics, analog photography, ancient/period music and astrophotography
+- 🌱 I’m currently studying MSc in astrophysics at UCM (Madrid)
+- 📫 How to reach me: rncsp@icloud.com
+- Check out https://sites.google.com/view/liuxing/ and https://sites.google.com/view/rafaelnavarro/
