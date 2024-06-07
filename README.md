@@ -1,8 +1,7 @@
 Hi, I’m @fameuxcorsaire:
-- I’m interested in astrophysics, analog photography and astrophotography
-- PhD candidate <high redshift univere at Kapteyn Institute, RUG (Groningen, NL)
-- 🌱 vegetarian & 🏳️‍🌈 LGBTQIA+ supporter
+- PhD candidate high redshift universe at Kapteyn Institute, RUG (Groningen, NL)
 - 📫 navarro@astro.rug.nl
+- I’m interested in astrophysics, analog photography and astrophotography
 
 Check my personal website at:
 https://fameuxcorsaire.github.io
